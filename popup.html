@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Game of Life Extension</title>
+    <style>
+        body {
+            width: 400px;
+            height: 460px;
+            font-family: 'Courier New', monospace;
+            background-color: Lavender;
+            color: #333333;
+            margin: 0;
+            padding: 10px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+        }
+        h1 {
+            margin: 10px 0;
+            font-size: 1.5em;
+        }
+        #controls {
+            margin-bottom: 10px;
+        }
+        button {
+            background: #11307d;
+            color: #FFFFFF;
+            border: 1px solid #11307d;
+            border-radius: 0;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 3px;
+            padding: 5px 10px;
+            transition: 0.3s;
+        }
+        button:hover {
+            background: #ee6161;
+            border-color: #555555;
+        }
+        .drawingarea {
+            display: grid;
+            margin: 0 auto;
+            background: #FFFFFF;
+            border: 2px solid #555555;
+            width: fit-content;
+            overflow: hidden;
+        }
+        .cell {
+            width: 15px;
+            height: 15px;
+            border: 1px solid #ddd;
+            cursor: pointer;
+        }
+        .alive { background-color: #80e5ff; }
+        .young { background-color: #33b5e5; }
+        .old { background-color: #0099cc; }
+        .veteran { background-color: #0077b3; }
+        #themeSelector {
+            margin-top: 10px;
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conway's Game of Life</h1>
+    <div id="gameBoard" class="drawingarea"></div>
+    <div id="controls">
+        <button id="toggleButton">Start</button>
+        <button id="clearButton">Clear</button>
+        <button id="randomButton">Random</button>
+        <button id="nextButton">Next</button>
+    </div>
+    <div id="themes">
+        <label for="themeSelector">Theme:</label>
+        <select id="themeSelector">
+            <!-- Options will be populated by JavaScript -->
+        </select>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
