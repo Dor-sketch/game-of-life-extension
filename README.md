@@ -84,7 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Dor Pascal - [dorpascal.com](https://dorpascal.com), mail: dorpascal [at] dorpascal [dot] com
+Dor Pascal - [dorpascal.com](https://dorpascal.com), mail: [dor@dorpascal.com](mailto:dor@dorpascal.com)
 
 Project Link: [https://github.com/Dor-sketch/game-of-life-chrome-extension](https://github.com/Dor-sketch/game-of-life-chrome-extension)
 
