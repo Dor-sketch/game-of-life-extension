@@ -3,6 +3,9 @@
 ![Game of Life Promo](images/game_of_life_marquee.png)
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
+[![Chrome Web Store Rating Count](https://img.shields.io/chrome-web-store/rating-count/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
 [![License](https://img.shields.io/github/license/Dor-sketch/game-of-life-extension.svg)](LICENSE)
 
 ## Overview
@@ -24,9 +27,9 @@ A full web version of this application is available at [https://dorpascal.com/ga
 
 ### Chrome Web Store
 
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) (link to be updated when published)
-2. Search for "Game of Life by Dor Pascal"
-3. Click "Add to Chrome"
+1. Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh) extension page
+2. Click "Add to Chrome"
+3. Enjoy the Game of Life simulator in your browser!
 
 ### Local Installation (for development)
 
