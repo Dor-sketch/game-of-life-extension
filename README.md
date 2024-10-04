@@ -1,12 +1,18 @@
 # Game of Life Chrome Extension
 
-![Game of Life Promo](images/game_of_life_marquee.png)
+![Game of Life Promo](images/game-of-life-simple-animated-banner.svg)
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
 [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
 [![Chrome Web Store Rating Count](https://img.shields.io/chrome-web-store/rating-count/jiaoidmocpfggkklhleleghgkknnjpjh.svg)](https://chrome.google.com/webstore/detail/jiaoidmocpfggkklhleleghgkknnjpjh)
 [![License](https://img.shields.io/github/license/Dor-sketch/game-of-life-extension.svg)](LICENSE)
+
+[![Mozilla Add-on](https://img.shields.io/amo/v/game-of-life-extension.svg)](https://addons.mozilla.org/en-US/firefox/addon/game-of-life-extension/)
+[![Mozilla Add-on Users](https://img.shields.io/amo/users/game-of-life-extension.svg)](https://addons.mozilla.org/en-US/firefox/addon/game-of-life-extension/)
+[![Mozilla Add-on Rating](https://img.shields.io/amo/rating/game-of-life-extension.svg)](https://addons.mozilla.org/en-US/firefox/addon/game-of-life-extension/)
+[![Mozilla Add-on Rating Count](https://img.shields.io/amo/rating-count/game-of-life-extension.svg)](https://addons.mozilla.org/en-US/firefox/addon/game-of-life-extension/)
+[![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/game-of-life-extension.svg)](https://addons.mozilla.org/en-US/firefox/addon/game-of-life-extension/)
 
 ## Overview
 
